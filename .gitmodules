@@ -1,0 +1,9 @@
+[submodule "wireless/rtl8189ES_linux"]
+	path = wireless/rtl8189ES_linux
+	url = https://github.com/jwrdegoede/rtl8189ES_linux/
+[submodule "wireless/T20/rtl8189ES_linux"]
+	path = wireless/T20/rtl8189ES_linux
+	url = https://github.com/jwrdegoede/rtl8189ES_linux/
+[submodule "wireless/T30/rtl8189ES_linux"]
+	path = wireless/T30/rtl8189ES_linux
+	url = https://github.com/jwrdegoede/rtl8189ES_linux/
